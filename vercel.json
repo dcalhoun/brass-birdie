@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/collectors-club",
+      "destination": "https://mailchi.mp/9142ad5c4b05/join-our-collectors-club",
+      "permanent": false
+    },
+    {
       "source": "/(.*)",
       "destination": "https://www.instagram.com/brassbirdie/",
       "permanent": false
